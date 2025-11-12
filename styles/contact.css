@@ -1,6 +1,6 @@
 #contact {
-  background: linear-gradient(90deg, rgb(4, 16, 28, 0.9), rgba(0, 0, 0, 0)),
-    url(/assets/images/background-contact.png);
+  background-image: linear-gradient(90deg, rgb(4, 16, 28, 0.9), rgba(0, 0, 0, 0)),
+    url(../assets/images/background-contact.png);
   background-size: cover;
   background-repeat: no-repeat;
   height: 470px;

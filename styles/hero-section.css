@@ -1,0 +1,5 @@
+#hero-section {
+  background: linear-gradient(90deg, rgb(4, 16, 28, 0.9), rgba(0, 0, 0, 0)),
+    url(/assets/images/background-main.jpg);
+  background-size: cover;
+}
